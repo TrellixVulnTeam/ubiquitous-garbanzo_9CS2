@@ -1,0 +1,36 @@
+.form-group {
+    margin-bottom: 15px;
+
+}
+.form-control, .btn {
+    min-height: 38px;
+    border-radius: 2px;
+}
+.btn {
+    font-size: 15px;
+    font-weight: bold;
+}
+.btn:hover, .btn:focus {
+    border: 1px solid #333;
+    background: #fff;
+    color: #000;
+}
+.footer {
+    font-size: 14px;
+    font-weight: normal;
+    margin: 20px 0;
+}
+.footer a {
+    color: #000;
+}
+.footer a:hover {
+    color: #000;
+    text-decoration: none;
+}
+.footer p {
+    margin: 0;
+}
+.footer img {
+    max-width: 100%;
+}
+
